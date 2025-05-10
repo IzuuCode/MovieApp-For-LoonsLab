@@ -56,18 +56,6 @@ A beautifully designed Movie Explorer web application that connects to the [TMDb
 - Node.js & npm installed
 - TMDb API Key (register at [TMDb Developer](https://www.themoviedb.org/documentation/api))
 
-### Installation Steps
+##Contact
 
-```bash
-# Clone the repository
-git clone https://github.com/your-username/movie-database-app.git
-cd movie-database-app
-
-# Install dependencies
-npm install
-
-# Create a .env file and add your TMDb API key
-echo "REACT_APP_TMDB_API_KEY=your_tmdb_api_key_here" > .env
-
-# Start the development server
-npm start
+isurujayanada2002@gmail.com
