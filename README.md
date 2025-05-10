@@ -50,11 +50,7 @@ A beautifully designed Movie Explorer web application that connects to the [TMDb
 
 ---
 
-## 🔧 Project Setup
-
-### Prerequisites
-- Node.js & npm installed
-- TMDb API Key (register at [TMDb Developer](https://www.themoviedb.org/documentation/api))
+Live Demo [ https://loonslabxisuru.netlify.app/ ]
 
 ##Contact
 
