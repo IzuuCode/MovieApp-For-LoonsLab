@@ -4,7 +4,7 @@ import { getMovieDetails, getMovieCredits, getImageUrl } from '../services/movie
 import { useMovies } from '../context/MovieContext';
 import { 
   Heart, ChevronLeft, Star, Clock, Calendar, 
-  Film, Users, Youtube, Info, Loader 
+  Users, Youtube, Loader, X 
 } from 'lucide-react';
 import { MovieDetails, MovieCredits, CastMember, Video } from '../types/movie';
 

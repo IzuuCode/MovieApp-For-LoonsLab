@@ -2,11 +2,11 @@ import React, { useEffect, useState } from 'react';
 import { useMovies } from '../context/MovieContext';
 import MovieGrid from '../components/MovieGrid';
 import { fetchGenres } from '../services/movieService';
-import { Film, Search, TrendingUp } from 'lucide-react';
+import { Search, TrendingUp } from 'lucide-react';
 import { Genre } from '../types/movie';
 
 const HomePage: React.FC = () => {
-  const { trending, searchResults, loading, error, lastSearch, searchMoviesAction } = useMovies();
+  const { trending, searchResults, error, lastSearch, searchMoviesAction } = useMovies();
   const [genres, setGenres] = useState<Genre[]>([]);
   const [selectedGenre, setSelectedGenre] = useState<number | null>(null);
 
