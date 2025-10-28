@@ -52,11 +52,20 @@ A beautifully designed Movie Explorer web application that connects to the [TMDb
 
 ## 📚 Documentation
 
-For a comprehensive explanation of the codebase, architecture, and how everything works together, see:
+We provide comprehensive documentation to help you understand and work with the code:
 
-**[CODE_EXPLANATION.md](./CODE_EXPLANATION.md)** - Complete technical documentation including:
+### For Quick Start:
+**[QUICK_START_GUIDE.md](./QUICK_START_GUIDE.md)** - Get up and running in 5 minutes:
+- Installation instructions
+- How to use the app
+- Project structure overview
+- Common tasks and examples
+- Troubleshooting tips
+
+### For Deep Understanding:
+**[CODE_EXPLANATION.md](./CODE_EXPLANATION.md)** - Complete technical documentation:
 - Detailed architecture overview
-- Component explanations
+- Component-by-component explanations
 - State management patterns
 - API integration details
 - Data flow diagrams
