@@ -1,5 +1,5 @@
 import axios from 'axios';
-import { Movie, MovieDetails, SearchResults, MovieCredits } from '../types/movie';
+import { MovieDetails, SearchResults, MovieCredits } from '../types/movie';
 
 // TMDb API Configuration
 // API documentation: https://developers.themoviedb.org/3

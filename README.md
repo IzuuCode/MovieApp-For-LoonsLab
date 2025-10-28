@@ -50,8 +50,23 @@ A beautifully designed Movie Explorer web application that connects to the [TMDb
 
 ---
 
+## 📚 Documentation
+
+For a comprehensive explanation of the codebase, architecture, and how everything works together, see:
+
+**[CODE_EXPLANATION.md](./CODE_EXPLANATION.md)** - Complete technical documentation including:
+- Detailed architecture overview
+- Component explanations
+- State management patterns
+- API integration details
+- Data flow diagrams
+- TypeScript type definitions
+- Best practices and design patterns
+
+---
+
 Live Demo [ https://loonslabxisuru.netlify.app/ ]
 
-##Contact
+## Contact
 
 isurujayanada2002@gmail.com
